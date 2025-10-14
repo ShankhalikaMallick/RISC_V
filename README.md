@@ -6,8 +6,8 @@
 It is designed and implemented using **Verilog HDL** , a hardware description language used to build digital circuits.  
 
 ### INTRODUCTION
-This project implements a simple RISC-V processor using the RV32I base instruction set architecture (ISA) , which defines a simple 32-bit integer core.  
-The RV32I ISA includes different instruction types such as R-type, I-type, S-type, B-type, U-type, and J-type, covering basic arithmetic, logic, memory, and control operations.  
+This project implements a simple RISC-V processor using the RV32I base instruction set architecture (ISA) , which defines a simple 32-bit integer core.
+The RV32I ISA includes different instruction types such as R-type, I-type, S-type, B-type, U-type, and J-type, covering basic arithmetic, logic, memory, and control operations.
 The processor is designed in **Verilog HDL** and operates on a single clock cycle per instruction, with no pipelining.  
 
 ### THIS REPOSITORY CONTAINS:
