@@ -14,12 +14,14 @@ The processor is designed in **Verilog HDL** and operates on a single clock cycl
 1. [TOP_RISCV_TB]()  
 It is the test bench driving the top module. It generates clock and reset signals and checks the proper working of the modules.  
    
-3. [TOP_RISCV](https://github.com/ShankhalikaMallick/RISC_V/blob/main/TOP_RISCV.v)   
+2. [TOP_RISCV](https://github.com/ShankhalikaMallick/RISC_V/blob/main/TOP_RISCV.v)   
 The top module controls the working of other units IFU, IMU, CU, DPU, IMM_GEN. It is driven by top module testbench.  
 
-4. [instruction_fetch_unit]()
-5. [instruction_memory_unit]()
-6. [control_unit]()
-7. [data_path_unit]()
-8. [immediate_generator]()
-9. 
+3. [instruction_fetch_unit](https://github.com/ShankhalikaMallick/RISC_V/blob/main/IFU.v)  
+Instruction Fetch Unit is used to update program counter based on instruction type and also updates the return address location.
+
+4. [instruction_memory_unit]()
+8. [control_unit]()
+9. [data_path_unit]()
+10. [immediate_generator]()
+11. 
