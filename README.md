@@ -11,15 +11,15 @@ The RV32I ISA includes different instruction types such as R-type, I-type, S-typ
 The processor is designed in **Verilog HDL** and operates on a single clock cycle per instruction, with no pipelining.  
 
 ### THIS REPOSITORY CONTAINS:
-1. [top_moodule_testbench]()  
+1. [TOP_RISCV_TB]()
 It is the test bench driving the top module. It generates clock and reset signals and checks the proper working of the modules.  
    
-2. [top_module]()   
+3. [TOP_RISCV](https://github.com/ShankhalikaMallick/RISC_V/blob/main/TOP_RISCV.v)   
 The top module controls the working of other units IFU, IMU, CU, DPU, IMM_GEN. It is driven by top module testbench.  
 
-3. [instruction_fetch_unit]()
-4. [instruction_memory_unit]()
-5. [control_unit]()
-6. [data_path_unit]()
-7. [immediate_generator]()
-8. 
+4. [instruction_fetch_unit]()
+5. [instruction_memory_unit]()
+6. [control_unit]()
+7. [data_path_unit]()
+8. [immediate_generator]()
+9. 
