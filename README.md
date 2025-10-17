@@ -27,7 +27,9 @@ Instruction Fetch Unit is used to update program counter based on instruction ty
 
 
 ### FLOWCHART
-├── Top_Module.v
+```mermaid
+flowchart TD;
+ Top_Module.v
 ├── Control_Unit.v
 ├── ALU.v
 ├── Register.v
@@ -39,6 +41,7 @@ Instruction Fetch Unit is used to update program counter based on instruction ty
 ├── link.ld
 ├── Makefile
 └── Testbench.v
+```
 
 
 
