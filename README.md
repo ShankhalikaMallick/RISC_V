@@ -24,4 +24,21 @@ Instruction Fetch Unit is used to update program counter based on instruction ty
 8. [control_unit]()
 9. [data_path_unit]()
 10. [immediate_generator]()
-11. 
+
+
+### FLOWCHART
+├── Top_Module.v
+├── Control_Unit.v
+├── ALU.v
+├── Register.v
+├── Forwarding_Block.v
+├── Hazard_Detection.v
+├── *.v         (other Verilog modules: memory, muxes, etc.)
+├── tst.c
+├── crt0.S
+├── link.ld
+├── Makefile
+└── Testbench.v
+
+
+
