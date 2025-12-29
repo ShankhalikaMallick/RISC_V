@@ -33,7 +33,7 @@ This repository captures **Week 0 tasks**, including learning summaries and tool
 - Create a document based on the video **Digital VLSI SoC Design and Planning**.
 - Summarize the concepts, key takeaways, and learning outcomes.
 
-👉 [Read Task 1 Document](./Task1.md)
+👉 [Read Task 1 Document](./task1.md)
 
 ---
 
@@ -42,7 +42,7 @@ This repository captures **Week 0 tasks**, including learning summaries and tool
 - Provide screenshots of installation steps.
 - Add commands used during installation.
 
-👉 [Read Task 2 Document](./Task2.md)
+👉 [Read Task 2 Document](./task2.md)
 
 ---
 
