@@ -40,8 +40,7 @@ The simulator works in an **event-driven** manner:
 
 ## 🔹 iVerilog Simulation Flow
 Below is the flow diagram we looked at:
-
-![iVerilog Simulation Flow]<img width="1822" height="706" alt="image" src="https://github.com/user-attachments/assets/61fb1c2c-d268-4555-a593-b948f1288a9c" />
+<img width="1822" height="706" alt="image" src="https://github.com/user-attachments/assets/61fb1c2c-d268-4555-a593-b948f1288a9c" />
 
 *Screenshot showing the iVerilog simulation flow*
 
