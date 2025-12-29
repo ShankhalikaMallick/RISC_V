@@ -22,10 +22,10 @@ This repository documents the work done in **Week 1** of my **RISC-V SoC Tapeout
 
 ##  Repository Structure
 
-```tree 
+
 Day-1/
 ├── 1-Introduction-to-iVerilog/
-│   └── 05_task3.md
+│   └── [05_task3.md](./05_task3.md)
 │
 ├── 2-Labs-using-iVerilog-GTKwave/
 │   └── 06_task4.md
@@ -88,7 +88,7 @@ Day-5/
 │
 └── Labs_For-Loop_Generate/
   └── 26_task24.md
-```
+
 ---
 
 ## Week 1 Topics Covered
