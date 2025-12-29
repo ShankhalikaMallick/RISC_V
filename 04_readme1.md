@@ -11,11 +11,6 @@ This repository documents the work done in **Week 1** of my **RISC-V SoC Tapeout
 
 - [Week 1 - RISC-V SoC Journey (Shankhalika Mallick)](#week-1---risc-v-soc-journey-shankhalika-mallick)
 - [Repository Structure](#repository-structure)
-  - [Day-1](#day-1)
-  - [Day-2](#day-2)
-  - [Day-3](#day-3)
-  - [Day-4](#day-4)
-  - [Day-5](#day-5)
 - [Week 1 Topics Covered](#week-1-topics-covered)
 - [Tools Used](#tools-used)
 - [What I Learned](#what-i-learned)
