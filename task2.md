@@ -1,4 +1,4 @@
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/aaa3360d-c795-486c-89cb-d957d17e5cd8" /># 🛠️ Task 2 - Tool Installation and Setup  
+# 🛠️ Task 2 - Tool Installation and Setup  
 
 ## 🎯 Objective  
 To install and verify the essential tools required for the **RISC-V SoC Tapeout project**:  
