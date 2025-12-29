@@ -35,7 +35,8 @@ sudo apt-get install iverilog
 ```
 ---
 ### 🔹 Terminal Output 
-![iverilog Screenshot](.Screenshots/iverilog.jpg)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/3b64f9d1-80c0-4c1a-8a9a-ff1ab2bcb990" />
+
 
 ## 2️⃣ Installing GTKWave  
 
@@ -46,7 +47,8 @@ sudo apt install gtkwave
 ```
 ---
 ### 🔹 Terminal Output
-![GTKWave Screenshot](.Screenshots/gtkwave.jpg)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/bae422e3-6e6f-471f-82b8-7689f38abb92" />
+
 
 ## 3️⃣ Installing Yosys  
 
