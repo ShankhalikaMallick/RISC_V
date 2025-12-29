@@ -22,72 +22,65 @@ This repository documents the work done in **Week 1** of my **RISC-V SoC Tapeout
 
 ##  Repository Structure
 
+---
 
-Day-1/
-├── 1-Introduction-to-iVerilog/
-│   └── [05_task3.md](./05_task3.md)
-│
-├── 2-Labs-using-iVerilog-GTKwave/
-│   └── 06_task4.md
-│
-├── 3-Introduction-to-Yosys-Logic-Synthesis/
-│   └── 07_task5.md
-│
-└── 4-Labs-using-Yosys-Sky130-PDK/
-    └── 08_task6.md
+### Day-1
 
-Day-2/
-├── 1-Introduction-to-Timing-Libs/
-│   └── 09_task7.md
-├── 2-Hierarchical-vs-Flat-Synthesis/
-│   └── 10_task8.md
-└── 3-Various-Flop-Coding-Styles-and-Optimizations/
-    └── 11_task9.md
+- 1-Introduction-to-iVerilog                  [05_task3.md](./05_task3.md)  
 
-Day-3/
-│── 12_task10.md         
-│
-├── Intro_to_Optimization/
-│   └── 13_task11.md
-│
-├── Combinational_Logic_Optimization/
-│   └── 14_task12.md
-│
-├── Sequential_Logic_Optimization/
-│   └── 15_task13.md
-│
-└── Sequential_Optimization_for_Unused_Outputs/
-    └── 16_task14.md
+- 2-Labs-using-iVerilog-GTKwave               [06_task4.md](./06_task4.md) 
+ 
+- 3-Introduction-to-Yosys-Logic-Synthesis     [07_task5.md](./07_task5.md) 
+ 
+- 4-Labs-using-Yosys-Sky130-PDK               [08_task6.md](./08_task6.md)
 
-Day4/
-│── 17_task15.md 
-│
-├── GLS & Synthesis–Simulation Mismatch + Blocking/Non-Blocking Mismatch/
-│ └── 18_task16.md 
-│
-├── Labs on GLS & Synthesis–Simulation Mismatch/
-│ └── 19_task17.md 
-│
-└── Labs on Synthesis–Simulation Mismatch for Blocking Statements/
-  └── 20_task18.md 
+---
 
-Day-5/
-│── 21_task19.md 
-│
-├── If-Case_Constructs/
-│ └── 22_task20.md
-│
-├── Incomplete_If-Case/
-│ └── 23_task21.md
-│
-├── Incomplete_Overlapping_Case/
-│ └── 24_task22.md
-│
-├── For-Loop_Generate/
-│ └── 25_task23.md
-│
-└── Labs_For-Loop_Generate/
-  └── 26_task24.md
+### Day-2
+
+- 5-Introduction-to-Timing-Libraries  [09_task7.md](./09_task7.md)
+
+- 6-Hierarchical-vs-Flat-Synthesis    [10_task8.md](./10_task8.md)
+
+- 7-Various-Flop-Coding-Styles-and-Optimizations    [11_task9.md](./11_task9.md)
+
+---
+
+### Day-3
+
+- 8-Introduction-to-Optimization    [12_task10.md](./12_task10.md)
+
+- 9-Combinational-Logic-Optimization    [13_task11.md](./13_task11.md)
+
+- 10-Sequential-Logic-Optimization    [14_task12.md](./14_task12.md)
+
+- 11-Sequential-Optimization-for-Unused-Outputs    [15_task13.md](./15_task13.md)
+
+---
+
+### Day-4
+
+- 12-GLS-and-Synthesis–Simulation-Mismatch   [16_task14.md](./16_task14.md)
+
+- 13-Blocking-vs-Non-Blocking-Mismatch    [17_task15.md](./17_task15.md)
+
+- 14-Labs-on-GLS-and-Synthesis–Simulation-Mismatch    [18_task16.md](./18_task16.md)
+
+- 15-Labs-on-Synthesis–Simulation-Mismatch-for-Blocking-Statements    [19_task17.md](./19_task17.md)
+
+---
+
+### Day-5
+
+- 16-If-and-Case-Constructs    [20_task18.md](./20_task18.md)
+
+- 17-Incomplete-If-and-Case-Statements    [21_task19.md](./21_task19.md)
+
+- 18-Incomplete-and-Overlapping-Case-Statements    [22_task20.md](./22_task20.md)
+
+- 19-For-Loop-and-Generate-Constructs    [23_task21.md](./23_task21.md)
+
+- 20-Labs-on-For-Loop-and-Generate    [24_task22.md](./24_task22.md)
 
 ---
 
