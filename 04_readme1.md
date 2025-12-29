@@ -30,69 +30,69 @@ This repository documents the work done in **Week 1** of my **RISC-V SoC Tapeout
 ```tree 
 Day-1/
 ├── 1-Introduction-to-iVerilog/
-│   └── Readme.md
+│   └── 05_task3.md
 │
 ├── 2-Labs-using-iVerilog-GTKwave/
-│   └── Readme.md
+│   └── 06_task4.md
 │
 ├── 3-Introduction-to-Yosys-Logic-Synthesis/
-│   └── Readme.md
+│   └── 07_task5.md
 │
 └── 4-Labs-using-Yosys-Sky130-PDK/
-    └── Readme.md
+    └── 08_task6.md
 
 Day-2/
 ├── 1-Introduction-to-Timing-Libs/
-│   └── Readme.md
+│   └── 09_task7.md
 ├── 2-Hierarchical-vs-Flat-Synthesis/
-│   └── Readme.md
+│   └── 10_task8.md
 └── 3-Various-Flop-Coding-Styles-and-Optimizations/
-    └── Readme.md
+    └── 11_task9.md
 
 Day-3/
-│── README.md         
+│── 12_task10.md         
 │
 ├── Intro_to_Optimization/
-│   └── README.md
+│   └── 13_task11.md
 │
 ├── Combinational_Logic_Optimization/
-│   └── README.md
+│   └── 14_task12.md
 │
 ├── Sequential_Logic_Optimization/
-│   └── README.md
+│   └── 15_task13.md
 │
 └── Sequential_Optimization_for_Unused_Outputs/
-    └── README.md
+    └── 16_task14.md
 
 Day4/
-│── README.md 
+│── 17_task15.md 
 │
 ├── GLS & Synthesis–Simulation Mismatch + Blocking/Non-Blocking Mismatch/
-│ └── README.md 
+│ └── 18_task16.md 
 │
 ├── Labs on GLS & Synthesis–Simulation Mismatch/
-│ └── README.md 
+│ └── 19_task17.md 
 │
 └── Labs on Synthesis–Simulation Mismatch for Blocking Statements/
-  └── README.md 
+  └── 20_task18.md 
 
 Day-5/
-│── README.md 
+│── 21_task19.md 
 │
 ├── If-Case_Constructs/
-│ └── README.md
+│ └── 22_task20.md
 │
 ├── Incomplete_If-Case/
-│ └── README.md
+│ └── 23_task21.md
 │
 ├── Incomplete_Overlapping_Case/
-│ └── README.md
+│ └── 24_task22.md
 │
 ├── For-Loop_Generate/
-│ └── README.md
+│ └── 25_task23.md
 │
 └── Labs_For-Loop_Generate/
-  └── README.md
+  └── 26_task24.md
 ```
 ---
 
