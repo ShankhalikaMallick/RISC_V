@@ -27,12 +27,15 @@ Think of **toasting bread** — every time you toast it, the result is slightly 
 In the same way, **fabrication introduces variations** in silicon.  
 A chip must still work across all such corners.  
 
-**Screenshot:** sky130 library file
+- sky130 library file
 
-![.lib1 file Screenshot](.Screenshots/lib1.jpg)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e07b3042-dad0-4506-8596-af7f68d374c5" />
 
+- and4 cell details
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/be05e94e-8763-4ec0-9422-f1362521b091" />
 
-![.lib2 file Screenshot](.Screenshots/lib2.jpg)
+- and2 cell details
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/08b32b30-56cd-4b20-8199-e3c9e2102932" />
 
 ---
 
