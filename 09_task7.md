@@ -50,6 +50,7 @@ I also analyzed the **equivalent Verilog models** of these cells.
 ### Command used to analyse verilog model:  
 ```bash
 :sp < relative_path >.behavioral.v
+vim libs.ref/sky130_fd_sc_hd/verilog/behavioral/sky130_fd_sc_hd__a2111o.behavioral.v
 ```
 
 ## Example – Analyzing an AND Cell  
