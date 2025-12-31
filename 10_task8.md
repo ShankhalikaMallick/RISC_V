@@ -124,19 +124,18 @@ procedure:
 To flatten the design:
 
 ```bash
+proc; flatten
 write_verilog -noattr multiple_modules_flat.v
 !gvim multiple_modules_flat.v
 ```
 
 procedure:
 
-<img width="1216" height="385" alt="image" src="https://github.com/user-attachments/assets/d4f0b2be-1787-4854-90f7-d12ab6ee5210" />
+<img width="1280" height="800" alt="Screenshot from 2025-12-31 08-06-31" src="https://github.com/user-attachments/assets/64444d39-ac64-4f2d-87ab-dade486e14e3" />
 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/98bc6c2b-d0df-4355-b8c9-1fd4e0243f41" />
 
-<img width="1216" height="768" alt="image" src="https://github.com/user-attachments/assets/fc957422-4ead-4aa4-b514-07e39c5744dd" />
-
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/0c70c5bd-f8fe-4e39-a596-ba3fdd40c15b" />
-
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b28738a1-9a63-4c2d-9970-47de5aa28b94" />
 
 ---
 
