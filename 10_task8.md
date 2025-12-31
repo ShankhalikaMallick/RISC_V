@@ -75,24 +75,42 @@ write_verilog -noattr multiple_modules_hier.v
 ```
 ### Hierarchical Synthesis using (`synth -top multiple_modules`)
 
-**Screenshot:** module level synthesising is shown
-
-![module_level synth1 Screenshot](.Screenshots/s1.jpg)
-
-![module_level synth2 Screenshot](.Screenshots/s2.jpg)
-
-
 ---
 
-**Screenshot:** Graphical representation of multiple_modules
+procedure:
 
-![mm Screenshot](.Screenshots/mm.jpg)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/3d5150de-2c6e-4dad-99b7-9173d8e0528a" />
 
----
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/72f0188f-88b4-4b6f-a274-851d02a64ba5" />
 
-**Screenshot:** hierarchical Netlist file
+<img width="818" height="579" alt="image" src="https://github.com/user-attachments/assets/d4082996-0ea9-4fc9-8cae-6cf1679bf126" />
 
-![netlist screenshot](.Screenshots/netlist.jpg)
+<img width="886" height="180" alt="image" src="https://github.com/user-attachments/assets/57645c33-5893-48f7-bfb3-773f91749dcb" />
+
+<img width="886" height="110" alt="image" src="https://github.com/user-attachments/assets/efcc4519-2343-4cef-bfaa-82b04b0a9eca" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a22d817a-56b8-4327-a14a-7b9b2afc9fd7" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/1ee6e298-5457-4e84-a5d0-932e7de9eeba" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/80481676-f90b-4bde-b952-4fcf5d540859" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/abcecbd4-1c59-4777-967d-1ddf448dbebf" />
+
+<img width="1216" height="256" alt="image" src="https://github.com/user-attachments/assets/962ea5c2-f197-45e9-88e7-ff570817a68f" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/212d0c46-4d25-4cce-807e-cc09420536b1" />
+
+
+<img width="1216" height="256" alt="image" src="https://github.com/user-attachments/assets/4890309d-4a68-4995-8181-1175ac0aa2f4" />
+
+<img width="1216" height="137" alt="image" src="https://github.com/user-attachments/assets/aa018bd8-c12a-4b0c-b174-ffb8df51892f" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e9d48995-c811-4367-8b67-afd164722ece" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7f5dc15c-72ad-4e75-a154-401fd50be718" />
+
+
 
 ---
 ### Observation
@@ -110,9 +128,15 @@ write_verilog -noattr multiple_modules_flat.v
 !gvim multiple_modules_flat.v
 ```
 
-**Screenshot:** comparision of heir vs flat netlist file
+procedure:
 
-![flat_hier_netlist screenshot](.Screenshots/flat_hier_netlist.jpg)
+<img width="1216" height="385" alt="image" src="https://github.com/user-attachments/assets/d4f0b2be-1787-4854-90f7-d12ab6ee5210" />
+
+
+<img width="1216" height="768" alt="image" src="https://github.com/user-attachments/assets/fc957422-4ead-4aa4-b514-07e39c5744dd" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/0c70c5bd-f8fe-4e39-a596-ba3fdd40c15b" />
+
 
 ---
 
