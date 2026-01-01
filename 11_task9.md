@@ -38,23 +38,26 @@
 
 **Simulation Screenshot:**  
 
-**Synthesized Netlist file Screenshot:**  
+**Synthesized Netlist file Screenshot:** 
 
-![Synthesized async Flip-Flop Netlist](.Screenshots/async_reset_synth.jpg)  
+- synthesized asynchronous flip flop netlist:
+  <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7fc6d9a6-7988-41c5-a08b-99a2128ce070" />
 
-![Synthesized sync Flip-Flop Netlist](.Screenshots/sync_reset_synth.jpg) 
+- synthesized synchronous flip flop netlist:
+  <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a427db80-894d-433a-a096-6236bd66cbb4" />
 
-![Synthesized async_sync Flip-Flop Netlist](.Screenshots/asyn_sync_reset_synth.jpg) 
+- synthesized asynchronous-synchronous flipflop netlist:
+  <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4d5ad650-7d0b-40e0-931b-7ddc0d5f1538" />
 
 ---
 
 **Graphical Representation of Reset Strategies**
 
-![async Flip-Flop](.Screenshots/async_reset_show.jpg)  
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d835a225-eb28-4e90-af7b-e13c338b11c9" />
 
-![sync Flip-Flop ](.Screenshots/sync_reset_show.jpg) 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7b0c49c2-b574-4fe2-8f83-f13b01e6dbc6" />
 
-![async_sync Flip-Flop](.Screenshots/asyn_sync_reset_show.jpg) 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/3905f59f-c634-4c04-9216-b69dbd7319b5" />
 
 ---
 
