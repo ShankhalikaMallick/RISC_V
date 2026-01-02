@@ -60,27 +60,25 @@ This repository documents the work done in **Week 1** of my **RISC-V SoC Tapeout
 
 ### Day-4
 
-- 12-GLS-and-Synthesis–Simulation-Mismatch   [16_task14.md](./16_task14.md)
+- 12-GLS-and-Synthesis–Simulation-Mismatch/Blocking-vs-Non-Blocking-Mismatch    [16_task14.md](./16_task14.md)
 
-- 13-Blocking-vs-Non-Blocking-Mismatch    [17_task15.md](./17_task15.md)
+- 13-Labs-on-GLS-and-Synthesis–Simulation-Mismatch    [17_task15.md](./17_task15.md)
 
-- 14-Labs-on-GLS-and-Synthesis–Simulation-Mismatch    [18_task16.md](./18_task16.md)
-
-- 15-Labs-on-Synthesis–Simulation-Mismatch-for-Blocking-Statements    [19_task17.md](./19_task17.md)
+- 14-Labs-on-Synthesis–Simulation-Mismatch-for-Blocking-Statements    [18_task16.md](./18_task16.md)
 
 ---
 
 ### Day-5
 
-- 16-If-and-Case-Constructs    [20_task18.md](./20_task18.md)
+- 15-If-and-Case-Constructs     [19_task17.md](./19_task17.md)
 
-- 17-Incomplete-If-and-Case-Statements    [21_task19.md](./21_task19.md)
+- 16-Incomplete-If-and-Case-Statements    [20_task18.md](./20_task18.md)
 
-- 18-Incomplete-and-Overlapping-Case-Statements    [22_task20.md](./22_task20.md)
+- 17-Incomplete-and-Overlapping-Case-Statements   [21_task19.md](./21_task19.md)
 
-- 19-For-Loop-and-Generate-Constructs    [23_task21.md](./23_task21.md)
+- 18-For-Loop-and-Generate-Constructs    [22_task20.md](./22_task20.md)
 
-- 20-Labs-on-For-Loop-and-Generate    [24_task22.md](./24_task22.md)
+- 19-Labs-on-For-Loop-and-Generate     [23_task21.md](./23_task21.md)
 
 ---
 
